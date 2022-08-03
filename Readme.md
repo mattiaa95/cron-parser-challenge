@@ -39,3 +39,6 @@ also if we don't set the time parameter, it will use the device time:
 ```
 cat config.txt | swift main.swift
 ```
+### ScreenShoots
+<img width="730" alt="screen" src="https://user-images.githubusercontent.com/11006805/182626550-c8cba4f6-4c14-4077-a905-89bab5bf8b27.png">
+
